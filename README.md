@@ -13,5 +13,6 @@ Also implemented NODE JS and Express JS
 
 Still working on fixing some errors
 
+## By: 
 Haris Malik
 malikharis2089@gmail.com
